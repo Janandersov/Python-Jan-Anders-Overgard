@@ -1,6 +1,6 @@
 # Python-Jan-Anders-Overgard
 
-## Subcaption
+## Test project
 
 Python Course for **AI23**, ITHS
 
