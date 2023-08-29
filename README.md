@@ -10,4 +10,6 @@ Python Course for **AI23**, ITHS
 
 ---
 
-`` ``
+```` Python
+print("Hello World")
+````
