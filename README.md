@@ -12,4 +12,5 @@ Python Course for **AI23**, ITHS
 
 ```` Python
 print("Hello World")
+print("This has been commited trough pycharm")
 ````
