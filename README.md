@@ -10,7 +10,7 @@ Python Course for **AI23**, ITHS
 
 ---
 
-```python
+```` python
 print("Hello World")
 print("This has been commited trough pycharm")
-```
+````
