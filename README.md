@@ -1,6 +1,6 @@
 # Python-Jan-Anders-Overgard
 
-## Test project
+## Test Project
 
 Python Course for **AI23**, ITHS
 
